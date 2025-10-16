@@ -30,7 +30,7 @@ This experiment explores early ideas from my MSc by Research proposal at the **U
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/TrustMeter-Human-AI-Trust-Dashboard.git
+git clone https://github.com/ShrawantiA/TrustMeter-Human-AI-Trust-Dashboard.git
 cd TrustMeter-Human-AI-Trust-Dashboard
 
 # 2. Create a virtual environment (optional)
